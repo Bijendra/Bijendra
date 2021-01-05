@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Bijendra</h1>
 <h3 align="center">Experienced engineer with background of working in web and communication industry.</h3>
 
-- 🔭 I’m currently focussed on web-development with Ruby on Rails and Angular
+- 🔭 I’m currently focussed on web-development using Ruby on Rails and Angular
 - 🌱 I’m currently learning Angular and nodejs
 
 - 💬 Ask me about **Ruby, Python, Rest, API design**
