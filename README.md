@@ -2,9 +2,9 @@
 <h3 align="center">Experienced engineer with background of working in web and communication industry.</h3>
 
 - 🔭 I’m currently focussed on developing enterprise products to improve the way how people use IP Phones with an amazing team and interacting with people across the globe. Have built multiple products as product owner over the decade while working for startups and clients.
-- 🌱 I’m currently learning to improve how distributed systems can be designed with the best tech available and inclined towards Big Data. 
+- 🌱 I’m currently learning to improve how distributed systems can be designed and improved with available resources and inclined towards Big Data. 
 
-- 💬 Ask me about **Ruby, Python, Rest, API design, WebServices, Databases, Distributed systems, Security, IOT devices, VOIP, Containerization, Politics, Cricket**
+- 💬 Ask me about **Ruby, Python, Rest, API design, WebServices, Databases, Distributed systems, Security, IOT devices, VOIP, Containerization, Microservices, Politics, Cricket**
 - 📫 How to reach me: **bijendra.biju@gmail.com**
 <p align="center"> 
 <a href="https://twitter.com/bijendrakr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bijendrakr" height="30" width="30" /></a>
