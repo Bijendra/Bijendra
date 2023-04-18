@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Bijendra</h1>
 <h3 align="center">Experienced engineer with background of working in web and communication industry.</h3>
 
-- 🔭 I’m currently focussed on developing enterprise products to improve the way how people use IP Phones with an amazing team and interacting with people across the globe. Have built multiple products as product owner over the decade while working for startups and clients.
+- 🔭 Currently i'm with improving customer purchase and post purchase journey working in sync with orders, payments and card linked offer teams targeting cloud acceptance with reduced cost and automation. Previously i was focussed on developing enterprise products to improve the way how people use IP Phones with an amazing team and interacting with people across the globe. Have built multiple products as product owner over the decade while working for startups and clients.
 - 🌱 I’m currently learning to improve how distributed systems can be designed and improved with available resources and inclined towards Big Data. 
 - 👨🏽‍💻 Beside's programming, I enjoy travelling.
 - 💬 Ask me about **Ruby, Python, Rest, API design, WebServices, Databases, Distributed systems, Security, IOT devices, VOIP, Containerization, Microservices, Kubernetes, Politics, Cricket**
